@@ -131,3 +131,18 @@ body {
 .room_name{
 cursor:pointer;
 }
+
+.input_div_message{
+	position: fixed;
+	bottom:0px;
+	width:100% !important;
+	background:white;
+}
+
+.input_div_message #msg{
+	width:80%;
+}
+
+.input_div_message button{
+	margin-top:50px;
+}
